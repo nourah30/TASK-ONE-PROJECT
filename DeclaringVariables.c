@@ -5,10 +5,10 @@
      int age = 26;
      float height = 7.3;
      double distance = 12345.6789;
-     char Initial = 'N';
+     char Initial = 'M';
  printf("updated AGE = %d\n" , age);
   printf("NEWEST HEIGHT = %f\n" , height);
    printf("DISTANCE= %lf\n" , distance);
-    printf("NEW INITIAL = %C\n" , Initial);
+    printf("NEWEST INITIAL = %C\n" , Initial);
 
  }
