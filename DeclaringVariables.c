@@ -4,11 +4,11 @@
  void declaringVariables(){
      int age = 26;
      float height = 7.3;
-     double distance = 12345.0156;
+     double distance = 12345.015743;
      char Initial = 'M';
  printf("updated AGE = %d\n" , age);
   printf("NEWEST HEIGHT = %f\n" , height);
-   printf("NEW. DISTANCE= %lf\n" , distance);
+   printf("NEWEST. DISTANCE= %lf\n" , distance);
     printf("NEWEST INITIAL = %C\n" , Initial);
 
  }
